@@ -15,4 +15,9 @@ _The week 1 module covers an introduction to Node, Node modules and the Node HTT
 #### Useful Resources for week 1:
  - [What is 3-Tier Architecture?](http://www.tonymarston.net/php-mysql/3-tier-architecture.html)
 
- - [Node and NPM presentation](./week_1/resources/Node_and_NPM.pdf)
+ **Course Presentations**
+
+ - ['Node and NPM' presentation](./week_1/resources/Node_and_NPM.pdf)
+ - ['Node Modules' presentation](./week_1/resources/Node_Modules.pdf)
+ - ['Node Modules: Callbacks and Error Handling' presentation](.week_1/resources/Node_Modules_Errors_Callbacks.pdf)
+ - ['Node Modules: Further Details' presentation](.week_1/resources/Node_Modules_Further.pdf)
