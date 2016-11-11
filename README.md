@@ -50,6 +50,12 @@ _This module looks in detail at data storage with MongoDB, the popular NoSQL dat
 
 ### Week 3
 
-[Week 3 exercises][Week 2 exercises](./week_3)
+[Week 3 exercises](./week_3)
 
 _This module is dedicated to user authentication. The exercises consist of developing a full-fledged REST API server with Express, Mongo and Mongoose. The module then progresses to examine basic authentication and session-based authentication briefly before developing token-based authentication with the support of JSON web tokens and the Passport module._
+
+### Useful Resources for Week 3:
+
+- [Build a Restful API using Node and Express4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
+- [Creating Restful APIs with NodeJS and MongoDB Tutorial](http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/)
+- [Creating a simple Restful Web APP with NodeJS, Express and MongoDB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
