@@ -12,7 +12,7 @@ This repository contains my ongoing work for completion of [Coursera's 'Server-s
 
 _The week 1 module covers an introduction to Node, Node modules and the Node HTTP server. Exercises involve learning about the Express framework and how to set up a REST API using Express._
 
-#### Useful Resources for week 1:
+#### Useful Resources for Week 1:
 - [What is 3-Tier Architecture?](http://www.tonymarston.net/php-mysql/3-tier-architecture.html)
 - [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 - [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
@@ -36,3 +36,13 @@ _The week 1 module covers an introduction to Node, Node modules and the Node HTT
 [Week 2 exercises](./week_2)
 
 _This module looks in detail at data storage with MongoDB, the popular NoSQL database. Exercises and lectures cover the Express generator for scaffolding an Express application. Then you will learn about MongoDB. This module is expected to teach how to interact with MongoDB from a Node application as well as the Mongoose ODM to create schemas and models, and  how to interact with MongoDB server._
+
+### Useful Resources for Week 2
+- [Express](http://expressjs.com/)
+- [Express Generator](http://expressjs.com/en/starter/generator.html)
+
+
+**Course Presentations:**
+
+- ['Express Generator' presentation](./week_2/resources/Express_Generator.pdf)
+- ['Introduction to MongoDB' presentation](./week_2/resources/MongoDB.pdf)
