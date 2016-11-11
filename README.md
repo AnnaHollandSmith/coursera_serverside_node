@@ -19,7 +19,7 @@ _The week 1 module covers an introduction to Node, Node modules and the Node HTT
  - [HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
  **Course Presentations:**
-
+ 
 - ['Node and NPM' presentation](./week_1/resources/Node_and_NPM.pdf)
 - ['Node Modules' presentation](./week_1/resources/Node_Modules.pdf)
 - ['Node Modules: Callbacks and Error Handling' presentation](.week_1/resources/Node_Modules_Errors_Callbacks.pdf)
