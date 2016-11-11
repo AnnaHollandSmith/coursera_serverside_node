@@ -47,3 +47,9 @@ _This module looks in detail at data storage with MongoDB, the popular NoSQL dat
 - ['Introduction to MongoDB' presentation](./week_2/resources/MongoDB.pdf)
 - ['Node and MongoDB' presentation](./week_2/resources/Node_and_MongoDB.pdf)
 - ['Mongoose ODM' presentation](./week_2/resources/Mongoose_ODM.pdf)
+
+### Week 3
+
+[Week 3 exercises][Week 2 exercises](./week_3)
+
+_This module is dedicated to user authentication. The exercises consist of developing a full-fledged REST API server with Express, Mongo and Mongoose. The module then progresses to examine basic authentication and session-based authentication briefly before developing token-based authentication with the support of JSON web tokens and the Passport module._
