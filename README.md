@@ -17,12 +17,20 @@ _The week 1 module covers an introduction to Node, Node modules and the Node HTT
 - [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 - [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
 - [HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+- [Understanding Express](http://evanhahn.com/understanding-express/)
+- [A Short Guide to Middleware](https://stephensugden.com/middleware_guide/)
+
 
  **Course Presentations:**
 - ['Node and NPM' presentation](./week_1/resources/Node_and_NPM.pdf)
 - ['Node Modules' presentation](./week_1/resources/Node_Modules.pdf)
 - ['Node Modules: Callbacks and Error Handling' presentation](.week_1/resources/Node_Modules_Errors_Callbacks.pdf)
 - ['Node Modules: Further Details' presentation](.week_1/resources/Node_Modules_Further.pdf)
+- ['HTTP Protocols' presentation](.week_1/resources/HTTP_Protocol.pdf)
+- ['Node and HTTP' presentation](.week_1/resources/Node_and_HTTP.pdf)
+- ['Introduction to Express' presentation](.week_1/resources/Express_Intro.pdf)
+- ['REST' presentation](.week_1/resources/REST.pdf)
+
 
 ### Week 2
 
