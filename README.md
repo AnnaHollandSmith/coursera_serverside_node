@@ -41,7 +41,6 @@ _This module looks in detail at data storage with MongoDB, the popular NoSQL dat
 - [Express](http://expressjs.com/)
 - [Express Generator](http://expressjs.com/en/starter/generator.html)
 
-
 **Course Presentations:**
 
 - ['Express Generator' presentation](./week_2/resources/Express_Generator.pdf)
