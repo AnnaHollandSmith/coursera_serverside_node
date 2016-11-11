@@ -45,3 +45,5 @@ _This module looks in detail at data storage with MongoDB, the popular NoSQL dat
 
 - ['Express Generator' presentation](./week_2/resources/Express_Generator.pdf)
 - ['Introduction to MongoDB' presentation](./week_2/resources/MongoDB.pdf)
+- ['Node and MongoDB' presentation](./week_2/resources/Node_and_MongoDB.pdf)
+- ['Mongoose ODM' presentation](./week_2/resources/Mongoose_ODM.pdf)
