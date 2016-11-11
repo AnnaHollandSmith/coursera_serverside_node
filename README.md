@@ -4,7 +4,7 @@ This repository contains my ongoing work for completion of [Coursera's 'Server-s
 
 ## Contents
 
-[Week 1](#week 1) | [Week 2]() | [Week 3]() | [Week 4]()
+[Week 1](#week 1) | [Week 2](#week 2) | [Week 3]() | [Week 4]()
 
 ### Week 1
 
@@ -23,3 +23,7 @@ _The week 1 module covers an introduction to Node, Node modules and the Node HTT
 - ['Node Modules' presentation](./week_1/resources/Node_Modules.pdf)
 - ['Node Modules: Callbacks and Error Handling' presentation](.week_1/resources/Node_Modules_Errors_Callbacks.pdf)
 - ['Node Modules: Further Details' presentation](.week_1/resources/Node_Modules_Further.pdf)
+
+### Week 2
+
+[Week 2 exercises](./week_2)
