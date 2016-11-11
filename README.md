@@ -8,4 +8,11 @@ This repository contains my ongoing work for completion of [Coursera's 'Server-s
 
 ### Week 1
 
-[Week 1 exercises](./week_1) | [Useful resources for week 1 content](./week_1/resources)
+[Week 1 exercises](./week_1)
+
+_The week 1 module covers an introduction to Node, Node modules and the Node HTTP server. Exercises involve learning about the Express framework and how to set up a REST API using Express._
+
+#### Useful Resources for week 1:
+ - [What is 3-Tier Architecture?](http://www.tonymarston.net/php-mysql/3-tier-architecture.html)
+
+ - [Node and NPM presentation](./week_1/resources/Node_and_NPM.pdf)
