@@ -4,4 +4,8 @@ This repository contains my ongoing work for completion of [Coursera's 'Server-s
 
 ## Contents
 
-[Week 1](./week_1) | [Week 2]() | [Week 3]() | [Week 4]()
+[Week 1](#week 1) | [Week 2]() | [Week 3]() | [Week 4]()
+
+### Week 1
+
+[Week 1 exercises](./week_1) | [Useful resources for week 1 content](./week_1/resources)
