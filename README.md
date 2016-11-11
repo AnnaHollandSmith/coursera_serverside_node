@@ -42,7 +42,6 @@ _This module looks in detail at data storage with MongoDB, the popular NoSQL dat
 - [Express Generator](http://expressjs.com/en/starter/generator.html)
 
 **Course Presentations:**
-
 - ['Express Generator' presentation](./week_2/resources/Express_Generator.pdf)
 - ['Introduction to MongoDB' presentation](./week_2/resources/MongoDB.pdf)
 - ['Node and MongoDB' presentation](./week_2/resources/Node_and_MongoDB.pdf)
@@ -59,3 +58,7 @@ _This module is dedicated to user authentication. The exercises consist of devel
 - [Build a Restful API using Node and Express4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 - [Creating Restful APIs with NodeJS and MongoDB Tutorial](http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/)
 - [Creating a simple Restful Web APP with NodeJS, Express and MongoDB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
+- [Basic Access Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
+-[Sessions in Express.js](http://expressjs-book.com/index.html%3Fp=128.html)
+
+**Course Presentations:**
