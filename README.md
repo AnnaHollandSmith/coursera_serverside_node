@@ -20,7 +20,6 @@ _The week 1 module covers an introduction to Node, Node modules and the Node HTT
 - [Understanding Express](http://evanhahn.com/understanding-express/)
 - [A Short Guide to Middleware](https://stephensugden.com/middleware_guide/)
 
-
  **Course Presentations:**
 - ['Node and NPM' presentation](./week_1/resources/Node_and_NPM.pdf)
 - ['Node Modules' presentation](./week_1/resources/Node_Modules.pdf)
@@ -35,3 +34,5 @@ _The week 1 module covers an introduction to Node, Node modules and the Node HTT
 ### Week 2
 
 [Week 2 exercises](./week_2)
+
+_This module looks in detail at data storage with MongoDB, the popular NoSQL database. Exercises and lectures cover the Express generator for scaffolding an Express application. Then you will learn about MongoDB. This module is expected to teach how to interact with MongoDB from a Node application as well as the Mongoose ODM to create schemas and models, and  how to interact with MongoDB server._
