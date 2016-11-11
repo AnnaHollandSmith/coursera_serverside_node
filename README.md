@@ -17,7 +17,7 @@ _The week 1 module covers an introduction to Node, Node modules and the Node HTT
 
  **Course Presentations**
 
- - ['Node and NPM' presentation](./week_1/resources/Node_and_NPM.pdf)
- - ['Node Modules' presentation](./week_1/resources/Node_Modules.pdf)
- - ['Node Modules: Callbacks and Error Handling' presentation](.week_1/resources/Node_Modules_Errors_Callbacks.pdf)
- - ['Node Modules: Further Details' presentation](.week_1/resources/Node_Modules_Further.pdf)
+- ['Node and NPM' presentation](./week_1/resources/Node_and_NPM.pdf)
+- ['Node Modules' presentation](./week_1/resources/Node_Modules.pdf)
+- ['Node Modules: Callbacks and Error Handling' presentation](.week_1/resources/Node_Modules_Errors_Callbacks.pdf)
+- ['Node Modules: Further Details' presentation](.week_1/resources/Node_Modules_Further.pdf)
