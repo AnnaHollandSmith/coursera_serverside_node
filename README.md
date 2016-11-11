@@ -53,7 +53,7 @@ _This module looks in detail at data storage with MongoDB, the popular NoSQL dat
 
 _This module is dedicated to user authentication. The exercises consist of developing a full-fledged REST API server with Express, Mongo and Mongoose. The module then progresses to examine basic authentication and session-based authentication briefly before developing token-based authentication with the support of JSON web tokens and the Passport module._
 
-### Useful Resources for Week 3:
+#### Useful Resources for Week 3:
 
 - [Build a Restful API using Node and Express4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 - [Creating Restful APIs with NodeJS and MongoDB Tutorial](http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/)
@@ -62,3 +62,16 @@ _This module is dedicated to user authentication. The exercises consist of devel
 -[Sessions in Express.js](http://expressjs-book.com/index.html%3Fp=128.html)
 
 **Course Presentations:**
+
+### Week 4
+
+[Week 4 exercises](./week_4)
+
+_This module teaches Mongoose population, a way of cross-referencing documents and populating the documents from other documents. It then has a review of secure communication using HTTPS, before looking at Backend as a Service (BaaS) and taking a brief look at Loopback._
+
+#### Useful Resources for Week 4:
+
+- [Mongoose Population](http://mongoosejs.com/docs/populate.html)
+- [Mongoose: Referencing Schema in Properties or Arrays](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
+- [How does HTTPS Actually Work?](http://robertheaton.com/2014/03/27/how-does-https-actually-work/)
+-[How to Use SSL/TLS with Node.js](https://www.sitepoint.com/how-to-use-ssltls-with-node-js/)
